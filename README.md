@@ -5,7 +5,7 @@ Bypassing installation requirements check for Mac OS X .pkg files.
 
 [Bug report and feedback][] | [Donation (PayPal)][] | [Follow Me on Twitter (@x43x61x69)][]
 
-[Bug report and feedback]: https://github.com/x43x61x69/OneShot/issues "GitHub"
+[Bug report and feedback]: https://github.com/x43x61x69/pkg-Installer/issues "GitHub"
 [Follow Me on Twitter (@x43x61x69)]: https://twitter.com/x43x61x69 "Twitter"
 [Donation (PayPal)]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N29VTZVBZLZA4
 
